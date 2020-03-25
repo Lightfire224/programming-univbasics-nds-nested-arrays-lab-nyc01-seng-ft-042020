@@ -35,7 +35,7 @@ def sorted_matrix
   arranged_org = ORGANIC_PRODUCE.sort
   
   next_array = [
-    arranged_conv
+    arranged_conv,
     arranged_org
     ]
 
